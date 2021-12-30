@@ -7,4 +7,4 @@
 
 ### You can also find me on
 * [My Portfolio](https://jasdosanjh.github.io)
-* [Twitter](https://twitter.com/@/justjasdosanjh)
+* [Twitter](https://twitter.com/@justjasdosanjh)
