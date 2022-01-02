@@ -5,6 +5,6 @@
 * **Web Technologies:** Azure Devops, Node.js, REST, GitHub
 * **Tools:** Git, Visual Studio Code, ESLint, SonarQube, Babel, Webpack, Adobe XD
 
-### You can also find me on
+### You can also find me on:
 * [My Portfolio](https://jasdosanjh.github.io)
 * [Twitter](https://twitter.com/@justjasdosanjh)
