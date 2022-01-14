@@ -6,10 +6,8 @@
 * **Tools:** Git, Visual Studio Code, ESLint, SonarQube, Babel, Webpack, Adobe XD
 
 ### Currently learning:
-* React.js
 * TypeScript
 * Rust
 
 ### You can also find me on:
-* [My Portfolio](https://jasdosanjh.github.io)
 * [Twitter](https://twitter.com/@justjasdosanjh)
