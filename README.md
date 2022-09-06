@@ -8,6 +8,3 @@
 ### Currently learning:
 * React.js
 * TypeScript
-
-### You can also find me on:
-* [Twitter](https://twitter.com/@justjasdosanjh)
