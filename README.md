@@ -1,4 +1,4 @@
-###### ***Frontend Developer from the United Kingdom***
+###### ***Software Engineer from the United Kingdom***
 * **Languages:** JavaScript, CSS, Sass, HTML
 * **Frameworks:** Vue.js/Vuex/Vue-Router/Vue-CLI
 * **Skills:** Responsive Web Design, Site & Image Optimization, UX, Localization, Agile
